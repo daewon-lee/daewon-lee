@@ -4,7 +4,7 @@ I'm wireless system engineer working at Intel Corp.
 
 ##### BIO
 
-- 🔭 Working on **3GPP 5G NR standards**
+- 🔭 Working on **3GPP 5G NR standards** and **vRAN architecture and algorithms**
 - ⚡ [Linkedin Profile](https://www.linkedin.com/in/daewonlee/)
 - ⛏️ Interested in **technology innovation** & **wireless technologies**
 - 💬 Ask me about **standards** and **(wireless) system engineering**
