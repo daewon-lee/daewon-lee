@@ -1,6 +1,6 @@
 ### Daewon Lee
 
-I'm wireless system engineer working at Intel Corp.
+I'm wireless system engineer working at Interdigital, Inc.
 
 ##### BIO
 
